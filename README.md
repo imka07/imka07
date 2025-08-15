@@ -40,8 +40,3 @@ Frontend developer who builds clean, pleasant and user-friendly interfaces.
 - Email: imran.shokuev@gmail.com  
 - Telegram: [@sh0kuy](https://t.me/sh0kuy)  
 
----
-<p align="center">
-  <em>Made with ❤️ — happy to help personalize this</em>
-</p>
-
